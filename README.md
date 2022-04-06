@@ -1,9 +1,9 @@
-### Olá, eu sou carlos Barbosa 👋
+### Olá, eu sou Carlos Barbosa 👋
 
 
-- 🔭 Eu desenvolvo Front-End
-- 🌱 Também posso trabalhar com Full stack e DBA 
-- 😄 Estudando Python
+- 🔭  Eu desenvolvo Front-End
+- 🌱  Também posso trabalhar com Full stack e DBA 
+- 😄  Estudando Python
 
 <div align="center">
   <a href="https://github.com/CarlosBarbosaPro">
