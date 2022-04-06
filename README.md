@@ -20,3 +20,10 @@
   <img align="center" alt="Carlos-bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="right" alt="Carlos-png" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102983077/161898659-5ef8df24-83e3-441c-9b9b-c41b4ad4723d.png">
 </div>
+  
+##
+  
+<div>
+  <a href="https://www.instagram.com/carlossanttos70/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:carlosantos010203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
