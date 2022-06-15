@@ -3,7 +3,7 @@
 
 - 🔭  Eu desenvolvo Front-End
 - 🌱  Também posso trabalhar com Full stack e DBA 
-- 😄  Estudando Python
+- 😄  Estudando Angular
 
 <div align="center">
   <a href="https://github.com/CarlosBarbosaPro">
@@ -19,6 +19,7 @@
   <img align="center" alt="Carlos-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Carlos-bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="right" alt="Carlos-png" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102983077/161898659-5ef8df24-83e3-441c-9b9b-c41b4ad4723d.png">
+   <img align="center" alt="Carlos-angular" height="50" width="60" src="https://img.icons8.com/color/48/undefined/angularjs.png"/>
 </div>
   
 ##
